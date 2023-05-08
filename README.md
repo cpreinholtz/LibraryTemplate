@@ -6,7 +6,9 @@ Checkout https://arduino.github.io/arduino-cli/0.29/library-specification/
 
 
 Using this repo:
-create new repo from this repo
+create new repo from this repo https://github.com/new  > create empty library > import code from existing repo > enter https://github.com/cpreinholtz/LibraryTemplate.git
+
+
 update library properties* important if wanting to actually publish to arduino libs
 Add src files
 Add tests, run tests
